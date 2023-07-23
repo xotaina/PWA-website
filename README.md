@@ -44,6 +44,8 @@ git commit -m "Initial commit"
 create heroku app > heroku create -a example-app or heroku create
 push the code > git push heroku main
 
+https://pwa-web-fc560b4947d6.herokuapp.com/
+
 # Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
